@@ -12,7 +12,7 @@ cout << "enter your number for z";
 cin >> z;
 
    a = x - y;
-   b = x + y;
+   b = x + z;
    c - x + y + z;
    d = 1;
    e = a * b;
@@ -20,5 +20,5 @@ cin >> z;
    g = f + d;
    h = e / g;
    
-   cout << " the answer is    " << h;
+   cout << " the answer is:    " << h;
 }
